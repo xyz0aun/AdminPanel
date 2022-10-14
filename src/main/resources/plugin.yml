@@ -1,0 +1,8 @@
+name: XCODE_ADMINPANEL
+version: '${project.version}'
+main: pl.xcode.adminpanel.main.Main
+api-version: 1.19
+authors: [ XYZAUN ]
+
+commands:
+  adminpanel:
